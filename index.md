@@ -4,14 +4,9 @@ title: ""
 excerpt: "Senior Software Engineer | Backend | Platform Engineer"
 markdown: true
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <style>
-.hero-title {
-  font-size: 25px;
-  font-weight: 900;
-  letter-spacing: -1px;
-  margin-bottom: 10px;
-}
 
 .hero-subtitle {
   font-size: 15px;
@@ -20,8 +15,6 @@ markdown: true
 }
 </style>
 
-<div class="hero-title">Iman Sadafi Tehrani</div>
-
 <div class="hero-subtitle">
 Senior Software Engineer | Backend | Platform Engineer
 </div>
@@ -29,10 +22,22 @@ Senior Software Engineer | Backend | Platform Engineer
 
 ## 📬 Contact
 
-- 📧 Email: [sadafiiman@gmail.com](mailto:sadafiiman@gmail.com)  
-- 📱 Phone: [+98 912 836 8925](tel:+989128368925)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/iman-sadafi-tehrani/](https://www.linkedin.com/in/iman-sadafi-tehrani/)
-- 💻 GitHub: [https://github.com/sadafiiman](https://github.com/sadafiiman)
+
+💼 <a href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
+<i class="fab fa-linkedin"></i> LinkedIn
+</a>
+
+💻 <a href="https://github.com/sadafiiman" target="_blank">
+<i class="fab fa-github"></i> GitHub
+</a>
+
+📧 <a href="mailto:sadafiiman@gmail.com">
+Email Me
+</a>
+
+📱 <a href="tel:+989128368925">
+Call Me
+</a>
 
 ---
 
