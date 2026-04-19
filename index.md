@@ -7,14 +7,14 @@ markdown: true
 
 <style>
 .hero-title {
-  font-size: 38px;
+  font-size: 25px;
   font-weight: 900;
   letter-spacing: -1px;
   margin-bottom: 10px;
 }
 
 .hero-subtitle {
-  font-size: 20px;
+  font-size: 15px;
   opacity: 0.75;
   margin-bottom: 25px;
 }
