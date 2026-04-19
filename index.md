@@ -6,7 +6,7 @@ layout: splash
 <style>
 
 .hero-subtitle {
-  font-size: 20px;
+  font-size: 16px;
   opacity: 0.75;
   margin-bottom: 25px;
 }
