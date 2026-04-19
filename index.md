@@ -29,7 +29,7 @@ Senior Software Engineer | Backend | Platform Engineer
 </a>
 
 📧 <a href="mailto:sadafiiman@gmail.com">
-Email Me
+sadafiiman@gmail.com
 </a>
 
 📱 <a href="tel:+989128368925">
