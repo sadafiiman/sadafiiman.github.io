@@ -6,7 +6,7 @@ layout: splash
 <style>
 
 .hero-subtitle {
-  font-size: 15px;
+  font-size: 20px;
   opacity: 0.75;
   margin-bottom: 25px;
 }
@@ -20,11 +20,11 @@ Senior Software Engineer | Backend | Platform Engineer
 ## 📬 Contact
 
 
-💼 <a href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
+<a href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
 <i class="fab fa-linkedin"></i> LinkedIn
 </a>
 
-💻 <a href="https://github.com/sadafiiman" target="_blank">
+<a href="https://github.com/sadafiiman" target="_blank">
 <i class="fab fa-github"></i> GitHub
 </a>
 
