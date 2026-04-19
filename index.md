@@ -4,6 +4,12 @@ title: "Iman Sadafi Tehrani"
 excerpt: "Senior Software Engineer | Backend | Platform Engineer"
 ---
 
+## 📬 Contact
+
+[📧 Email Me](mailto:sadafiiman@gmail.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/iman-sadafi-tehrani/)  
+[💻 GitHub](https://github.com/sadafiiman)
+
 ## 👋 About Me
 
 Senior Software Engineer with 6+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), with strong expertise in microservices, RESTful APIs, and high-availability systems for e-commerce and reservation platforms.
