@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "Iman Sadafi Tehrani"
+title: ""
 excerpt: "Senior Software Engineer | Backend | Platform Engineer"
 markdown: true
 ---
 
 <style>
 .hero-title {
-  font-size: 58px;
+  font-size: 38px;
   font-weight: 900;
   letter-spacing: -1px;
   margin-bottom: 10px;
@@ -26,14 +26,13 @@ markdown: true
 Senior Software Engineer | Backend | Platform Engineer
 </div>
 
----
 
 ## 📬 Contact
 
 - 📧 Email: [sadafiiman@gmail.com](mailto:sadafiiman@gmail.com)  
 - 📱 Phone: [+98 912 836 8925](tel:+989128368925)  
-- 💼 LinkedIn: https://www.linkedin.com/in/iman-sadafi-tehrani/  
-- 💻 GitHub: https://github.com/sadafiiman  
+- 💼 LinkedIn: [https://www.linkedin.com/in/iman-sadafi-tehrani/](https://www.linkedin.com/in/iman-sadafi-tehrani/)
+- 💻 GitHub: [https://github.com/sadafiiman](https://github.com/sadafiiman)
 
 ---
 
