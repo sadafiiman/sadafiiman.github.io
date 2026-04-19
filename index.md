@@ -25,6 +25,29 @@ layout: splash
   }
 }
 
+  .contact-box {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.contact-item {
+  background: #f3f4f6;
+  padding: 10px 14px;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #111;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.contact-item:hover {
+  background: #e5e7eb;
+}
+
 </style>
 
 <div class="hero-subtitle">
@@ -35,21 +58,25 @@ Senior Software Engineer | Backend | Platform Engineer
 ## 📬 Contact
 
 
-<a href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
-<i class="fab fa-linkedin"></i> LinkedIn
-</a>
+<div class="contact-box">
 
-<a href="https://github.com/sadafiiman" target="_blank">
-<i class="fab fa-github"></i> GitHub
-</a>
+  <a class="contact-item" href="mailto:sadafiiman@gmail.com">
+    📧 Email
+  </a>
 
-📧 <a href="mailto:sadafiiman@gmail.com">
-sadafiiman@gmail.com
-</a>
+  <a class="contact-item" href="tel:+989128368925">
+    📱 Phone
+  </a>
 
-📱 <a href="tel:+989128368925">
-+989128368925
-</a>
+  <a class="contact-item" href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+
+  <a class="contact-item" href="https://github.com/sadafiiman" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a>
+
+</div>
 
 ---
 
