@@ -61,11 +61,11 @@ Senior Software Engineer | Backend | Platform Engineer
 <div class="contact-box">
 
   <a class="contact-item" href="mailto:sadafiiman@gmail.com">
-    📧 Email
+    📧 sadafiiman@gmail.com
   </a>
 
   <a class="contact-item" href="tel:+989128368925">
-    📱 Phone
+    📱 +989128368925
   </a>
 
   <a class="contact-item" href="https://www.linkedin.com/in/iman-sadafi-tehrani/" target="_blank">
