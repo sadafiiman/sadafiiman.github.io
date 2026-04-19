@@ -6,10 +6,25 @@ layout: splash
 <style>
 
 .hero-subtitle {
-  font-size: 15px;
+  font-size: 20px;
   opacity: 0.75;
   margin-bottom: 25px;
 }
+
+/* 📱 Mobile (small screens) */
+@media (max-width: 768px) {
+  .hero-subtitle {
+    font-size: 15px;
+  }
+}
+
+/* 🖥️ Large screens (optional refinement) */
+@media (min-width: 1200px) {
+  .hero-subtitle {
+    font-size: 20px;
+  }
+}
+
 </style>
 
 <div class="hero-subtitle">
