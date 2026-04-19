@@ -1,0 +1,20 @@
+title: Iman Sadafi Tehrani
+email: sadafiiman@gmail.com
+description: Senior Software Engineer | Backend | Platform Engineer
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: Iman Sadafi Tehrani
+  links:
+    - label: GitHub
+      icon: fab fa-github
+      url: https://github.com/sadafiiman
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/iman-sadafi-tehrani/
