@@ -82,7 +82,8 @@ Senior Software Engineer | Backend | Platform Engineer
 
 <div style="margin-top:20px;">
   <a href="/Resume_Iman_Sadafi_Software_Engineer.pdf" target="_blank" class="contact-item">
-    <i class="fas fa-file-pdf"></i> Download Resume
+    <i class="fa-regular fa-file-pdf"></i>
+    <span>Download Resume</span>
   </a>
 </div>
 
@@ -94,6 +95,20 @@ Senior Software Engineer with 6+ years of experience designing, building, and sc
 Proven track record of progressing into a Technical Lead role, taking ownership of system architecture, improving reliability, and delivering scalable solutions in CI/CD-driven Agile environments. Experienced in building and optimizing message-driven architectures, improving performance under high traffic, and collaborating across cross-functional teams.
 
 ---
+
+
+## 🧠 Skills
+
+- Languages: PHP (Laravel), Python (Django), Node.js (TypeScript), JavaScript  
+- Architecture: Microservices, Service Oriented Architecture, REST APIs, Event-Driven Design, SOLID, Design Patterns  
+- Databases: PostgreSQL, MySQL, MongoDB, Redis  
+- Messaging: Kafka, RabbitMQ  
+- DevOps & Cloud: Docker, Kubernetes, OpenShift, Linux, Nginx, CI/CD (GitLab)  
+- Monitoring & Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Datadog, Grafana  
+- Frontend: Vue.js, HTML5, Tailwind CSS  
+
+---
+
 
 ## 💼 Experience
 
@@ -136,17 +151,5 @@ Proven track record of progressing into a Technical Lead role, taking ownership 
 - Developed a hotel and tour management platform with real-time booking and availability updates.
 - Implemented multi-tiered user access control for hotel administrators and tour operators.
 - Built advanced search and filtering features, improving customer experience and engagement.
-
----
-
-## 🧠 Skills
-
-- Languages: PHP (Laravel), Python (Django), Node.js (TypeScript), JavaScript  
-- Architecture: Microservices, Service Oriented Architecture, REST APIs, Event-Driven Design, SOLID, Design Patterns  
-- Databases: PostgreSQL, MySQL, MongoDB, Redis  
-- Messaging: Kafka, RabbitMQ  
-- DevOps & Cloud: Docker, Kubernetes, OpenShift, Linux, Nginx, CI/CD (GitLab)  
-- Monitoring & Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Datadog, Grafana  
-- Frontend: Vue.js, HTML5, Tailwind CSS  
 
 ---
