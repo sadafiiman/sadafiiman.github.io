@@ -80,6 +80,13 @@ Senior Software Engineer | Backend | Platform Engineer
 
 ---
 
+<div style="margin-top:20px;">
+  <a href="/Resume_Iman_Sadafi_Software_Engineer.pdf" target="_blank" class="contact-item">
+    <i class="fas fa-file-pdf"></i> Download Resume
+  </a>
+</div>
+
+
 ## 👋 About Me
 
 Senior Software Engineer with 6+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), with strong expertise in microservices, RESTful APIs, and high-availability systems for e-commerce and reservation platforms.
