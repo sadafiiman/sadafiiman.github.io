@@ -81,7 +81,7 @@ Senior Software Engineer | Backend | Platform Engineer
 ---
 
 <div style="margin-top:20px;">
-  <a href="/Resume_Iman_Sadafi_Software_Engineer.pdf" target="_blank" class="contact-item">
+  <a href="/ImanSadafiTehrani-SoftwareEngineer-Resume.pdf" target="_blank" class="contact-item">
     <i class="fa-regular fa-file"></i>
     <span>Download Resume</span>
   </a>
