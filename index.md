@@ -100,7 +100,8 @@ Proven track record of progressing into a Technical Lead role, taking ownership 
 ## 🧠 Skills
 
 - Languages: PHP (Laravel), Python (Django), Node.js (TypeScript), JavaScript  
-- Architecture: Microservices, Service Oriented Architecture, REST APIs, Event-Driven Design, SOLID, Design Patterns  
+- Architecture: Microservices, Service Oriented Architecture, REST APIs, Event-Driven Design, SOLID, Design Patterns
+- Automation & AI: Workflow Automation (n8n), LLM Integration (OpenAI ChatGPT, Anthropic Claude), AI-assisted Development (Cursor), Prompt Engineering, API Orchestration, AI-driven Automation Pipelines
 - Databases: PostgreSQL, MySQL, MongoDB, Redis  
 - Messaging: Kafka, RabbitMQ  
 - DevOps & Cloud: Docker, Kubernetes, OpenShift, Linux, Nginx, CI/CD (GitLab)  
