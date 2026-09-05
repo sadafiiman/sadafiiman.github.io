@@ -51,7 +51,7 @@ layout: splash
 </style>
 
 <div class="hero-subtitle">
-Senior Software Engineer | Backend | Platform Engineer
+Senior Software Engineer / Technical Lead | Backend & Distributed Systems
 </div>
 
 
@@ -81,7 +81,7 @@ Senior Software Engineer | Backend | Platform Engineer
 ---
 
 <div style="margin-top:20px;">
-  <a href="/ImanSadafiTehrani-SoftwareEngineer-Resume.pdf" target="_blank" class="contact-item">
+  <a href="/Iman-Sadafi-Tehrani-Senior-Software_Engineer-Resume.pdf" target="_blank" class="contact-item">
     <i class="fa-regular fa-file"></i>
     <span>Download Resume</span>
   </a>
@@ -90,28 +90,38 @@ Senior Software Engineer | Backend | Platform Engineer
 
 ## 👋 About Me
 
-Senior Software Engineer with 6+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), with strong expertise in microservices, RESTful APIs, and high-availability systems for e-commerce and reservation platforms.
+Senior Software Engineer with 6+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), Nodejs, with strong expertise in microservices, RESTful APIs, event-driven design, and high-availability systems for healthtech, e-commerce, and reservation platforms.
 
-Proven track record of progressing into a Technical Lead role, taking ownership of system architecture, improving reliability, and delivering scalable solutions in CI/CD-driven Agile environments. Experienced in building and optimizing message-driven architectures, improving performance under high traffic, and collaborating across cross-functional teams.
+Proven track record of progressing into a Technical Lead role, taking ownership of system architecture, mentoring engineers, improving reliability, and delivering scalable solutions in CI/CD-driven Agile environments. Experienced integrating AI agents and LLMs into production workflows to measurably improve efficiency.
 
 ---
 
 
 ## 🧠 Skills
 
-- Languages: PHP (Laravel), Python (Django), Node.js (TypeScript), JavaScript  
+- Languages: PHP (Laravel), Python (Django), Node.js (TypeScript), JavaScript
 - Architecture: Microservices, Service Oriented Architecture, REST APIs, Event-Driven Design, SOLID, Design Patterns
-- Automation & AI: Workflow Automation (n8n), LLM Integration (OpenAI ChatGPT, Anthropic Claude), AI-assisted Development (Cursor), Prompt Engineering, API Orchestration, AI-driven Automation Pipelines
-- Databases: PostgreSQL, MySQL, MongoDB, Redis  
-- Messaging: Kafka, RabbitMQ  
-- DevOps & Cloud: Docker, Kubernetes, OpenShift, Linux, Nginx, CI/CD (GitLab)  
-- Monitoring & Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Datadog, Grafana  
-- Frontend: Vue.js, HTML5, Tailwind CSS  
+- Automation & AI: LLM Integration (OpenAI ChatGPT, Anthropic Claude), AI Agents, Workflow Automation (n8n), AI-assisted Development (Cursor), Prompt Engineering, API Orchestration
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Messaging: Kafka, RabbitMQ
+- DevOps & Cloud: Docker, Kubernetes, OpenShift, Linux, Nginx, CI/CD (GitLab)
+- Monitoring & Testing: Unit Testing, Integration Testing, Test-Driven Development (TDD), Datadog, Grafana, Prometheus
+- Frontend: Vue.js, HTML5, Tailwind CSS
 
 ---
 
 
 ## 💼 Experience
+
+### Senior Software Engineer | Doctoreto (Healthtech, Doctor–Patient Platform) | Jun 2026 – Present
+- Architected and built a Laravel prescription integration microservice connecting the doctor portal to three national health insurance providers (Tamin, ERX, and Esakhad/Salamat), using OAuth 2.0 PKCE authentication and per-provider strategy/resolver design patterns.
+- Integrated an AI agent into the prescribing workflow to auto-complete and validate prescription data, reducing prescription completion time by 3x for doctors.
+- Designed a provider-agnostic architecture using backed enums, DTO layers, and per-endpoint environment-keyed configuration to support future insurance providers without code duplication.
+- Built response caching for static reference/lookup data and a scheduled cache-warming command to reduce third-party API load.
+- Diagnosed and resolved production issues including authentication token cache-key collisions, WAF/bot-challenge interception of provider API calls, and Docker/queue-worker memory and configuration issues.
+- Set up a PostgreSQL, Redis, and Prometheus/Grafana monitoring stack for observability and reliability at scale.
+
+---
 
 ### Senior Software Engineer | TehranMoble (Room Reservation System Platform) | Oct 2025 – Apr 2026
 - Designed and implemented a multi-payment architecture supporting credit methods, cash payments, and payment links, improving checkout flexibility and increasing reservation conversion rates.
@@ -154,3 +164,38 @@ Proven track record of progressing into a Technical Lead role, taking ownership 
 - Built advanced search and filtering features, improving customer experience and engagement.
 
 ---
+
+
+## 🚀 Projects
+
+### Automated Crypto Trading System (Personal Project)
+- Designed a microservice-based automated trading system: a Python service (ccxt.pro, asyncio, WebSocket streams) ingests live market data and publishes trade signals to a RabbitMQ queue.
+- Built a Laravel service that consumes signals, performs risk management, and executes orders, owning exchange API credentials and trade execution.
+- Extending the signal pipeline with an AI-based market analysis signal source and a goal-driven trading mode that autonomously selects symbols to reach a defined profit target.
+
+---
+
+
+## 🌐 Languages
+
+- Persian (Native)
+- English (Professional Working Proficiency)
+
+---
+
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Software Engineering**
+Islamic Azad University, South Tehran Branch | Sep 2016 – Sep 2020
+
+---
+
+
+## 📜 Certificates
+
+- Cisco Certified Network Associate (CCNA) | Cando | 2014
+- CompTIA Network+ | Cando | 2014
+- DevOps Beginners (120 Hours) | Cando | 2021
+- Windows Server 2012 Administrator (MCITP) | Cando | 2014
+- PHP Laravel Programming Bootcamp (400 Hours) | Maktab Sharif | 2018–2020
