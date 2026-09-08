@@ -115,10 +115,7 @@ Proven track record of progressing into a Technical Lead role, taking ownership 
 
 ### Senior Software Engineer | Doctoreto (Healthtech, Doctor–Patient Platform) | Jun 2026 – Present
 - Architected and built a Laravel prescription integration microservice connecting the doctor portal to three national health insurance providers (Tamin, ERX, and Esakhad/Salamat), using OAuth 2.0 PKCE authentication and per-provider strategy/resolver design patterns.
-- Integrated an AI agent into the prescribing workflow to auto-complete and validate prescription data, reducing prescription completion time by 3x for doctors.
 - Designed a provider-agnostic architecture using backed enums, DTO layers, and per-endpoint environment-keyed configuration to support future insurance providers without code duplication.
-- Built response caching for static reference/lookup data and a scheduled cache-warming command to reduce third-party API load.
-- Diagnosed and resolved production issues including authentication token cache-key collisions, WAF/bot-challenge interception of provider API calls, and Docker/queue-worker memory and configuration issues.
 - Set up a PostgreSQL, Redis, and Prometheus/Grafana monitoring stack for observability and reliability at scale.
 
 ---
