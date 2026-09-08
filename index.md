@@ -90,7 +90,7 @@ Senior Software Engineer / Technical Lead | Backend & Distributed Systems
 
 ## 👋 About Me
 
-Senior Software Engineer with 6+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), Nodejs, with strong expertise in microservices, RESTful APIs, event-driven design, and high-availability systems for healthtech, e-commerce, and reservation platforms.
+Senior Software Engineer with 7+ years of experience designing, building, and scaling production-grade backend systems across cloud-based and distributed architectures. Specialized in PHP (Laravel) and Python (Django), Nodejs, with strong expertise in microservices, RESTful APIs, event-driven design, and high-availability systems for healthtech, e-commerce, and reservation platforms.
 
 Proven track record of progressing into a Technical Lead role, taking ownership of system architecture, mentoring engineers, improving reliability, and delivering scalable solutions in CI/CD-driven Agile environments. Experienced integrating AI agents and LLMs into production workflows to measurably improve efficiency.
 
